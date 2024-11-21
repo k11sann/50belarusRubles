@@ -11,4 +11,5 @@ source code of tvorog street
 <p>Художник - https://t.me/wah_warehouse</p>
 <p>Художник - https://t.me/DoodlesVlad229</p>
 <p>Чартер - https://t.me/theevilsaidd</p>
+<p>Музыкант - Асер</p>
 <p>Поддержка команды - https://t.me/httpstmecjNXbglXp1s3MTQy</p>
