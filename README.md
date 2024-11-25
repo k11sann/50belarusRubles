@@ -12,4 +12,4 @@ source code of tvorog street
 <p>Художник - https://t.me/DoodlesVlad229</p>
 <p>Чартер - https://t.me/theevilsaidd</p>
 <p>Музыкант - Асер</p>
-<p>Поддержка команды - https://t.me/httpstmecjNXbglXp1s3MTQy</p>
+<p>Майкчоус - https://t.me/httpstmecjNXbglXp1s3MTQy</p>
