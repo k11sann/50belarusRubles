@@ -2,7 +2,7 @@
 <p align="center"><img src="https://github.com/k11sann/TVOROG-STREET-source/blob/main/tvorog.jpg" width=100% height=100% alt="Welcome to my profile, cool guys!"></p>
 
 
-<h1> Default template & guide </h1>
+<h1> Default template & guide [ ENG / RUS ] </h1>
 <pre>////////////// ENG //////////////
 U can create graffity presets
 
