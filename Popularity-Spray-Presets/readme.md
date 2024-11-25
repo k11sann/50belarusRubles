@@ -1,8 +1,8 @@
 <h1> COMMUNITY SPRAY PRESETS </h1>
 <p align="center"><img src="https://github.com/k11sann/TVOROG-STREET-source/blob/main/tvorog.jpg" width=100% height=100% alt="Welcome to my profile, cool guys!"></p>
-<p align="center">Suggest sprays in "Issues"</p>
+<p align="center">Suggest sprays in "Issues"; <a href="https://github.com/k11sann/TVOROG-STREET-source/blob/main/Popularity-Spray-Presets/default-template.rar">Download default template</a></p>
 
-<h1> Default template & guide [ ENG / RUS ] </h1>
+<h1> Guide [ ENG / RUS ] </h1>
 <pre>////////////// ENG //////////////
 U can create graffity presets
 
@@ -16,6 +16,18 @@ Aaaaand you can add new spray texture name [ texture name like your texture name
 brush size texture features 170x170 meow, u can use more size ;)
 
 * PresetUnuse = store your presets [ dont use this to use presets, ONLY STORE, THIS FOLDER DONT USED !]
+
+Available names of sprays :
+* one
+* two
+* three
+* four
+* five
+* six
+* seven
+* eight
+* nine
+* ten
 
 with love, Kusann <3
 
@@ -33,5 +45,16 @@ with love, Kusann <3
 
 * PresetUnuse = Хранить ваши пресеты [ ТОЛЬКО ХРАНИТЬ, ЭТА ПАПКА НЕ ИСПОЛЬЗУЕТСЯ НИКАК ! ]
 
+Одобренные имена текстур :
+* one
+* two
+* three
+* four
+* five
+* six
+* seven
+* eight
+* nine
+* ten
+
 С любовью, Куса <3</pre>
-<h2><a href="https://github.com/k11sann/TVOROG-STREET-source/blob/main/Popularity-Spray-Presets/default-template.rar">Download default template</a></h2>
