@@ -3,8 +3,6 @@
 
 
 <h1> Default template & guide </h1>
-https://github.com/k11sann/TVOROG-STREET-source/blob/main/Popularity-Spray-Presets/default-template.rar - default template
-<br>
 <pre>////////////// ENG //////////////
 U can create graffity presets
 
@@ -36,3 +34,4 @@ with love, Kusann <3
 * PresetUnuse = Хранить ваши пресеты [ ТОЛЬКО ХРАНИТЬ, ЭТА ПАПКА НЕ ИСПОЛЬЗУЕТСЯ НИКАК ! ]
 
 С любовью, Куса <3</pre>
+<h2><a href="https://github.com/k11sann/TVOROG-STREET-source/blob/main/Popularity-Spray-Presets/default-template.rar">Download default template</a></h2>
