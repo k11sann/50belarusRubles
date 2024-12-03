@@ -16,3 +16,4 @@ source code of tvorog street
 # Spical thanks
 <p>Гурфилд - https://t.me/obdolbashenniy_goraj</p>
 <p>Майкчоус - https://t.me/httpstmecjNXbglXp1s3MTQy</p>
+<p>Фрик - https://t.me/notsoordinaryguyy</p>
