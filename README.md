@@ -3,7 +3,7 @@
 source code of tvorog street
 Как выйдет я выложу
 
-# Наша команда [ tg's channels ] // НЕ ВСЕ
+# Наша команда [ socials ] // НЕ ВСЕ
 <p><a href="https://t.me/sanya_lutiyyo">Sanya_Lutiy</a> - Создатель, художник, музыкант</p>
 <p><a href="https://t.me/kusannsound">Kusann</a> - Директор, кодер, музыкант, художник</p>
 <p><a href="https://t.me/DoodlesVlad229">Prosto_Vlad</a> - Художник</p>
