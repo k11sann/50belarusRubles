@@ -9,6 +9,7 @@ source code of tvorog street
 <p>Художник - <a href="https://t.me/DoodlesVlad229">Prosto_Vlad</a></p>
 <p>Художник - <a href="https://t.me/wah_warehouse">Vahiduch</a></p>
 <p>Музыкант -  <a href="https://t.me/kurukuru">KuruKuru</a></p>
+<p>Художник - <a href="https://dorentos.newgrounds.com/">XLMdorentos</a></p>
 <p>Художник - <a href="https://t.me/bazafreya">Frey</a></p>
 <p>Чартер - <a href="https://t.me/theevilsaidd">TheEvilsaiD</a></p>
 
