@@ -7,7 +7,7 @@ source code of tvorog street
 <p><a href="https://t.me/sanya_lutiyyo">Sanya_Lutiy</a> - Создатель, художник, музыкант</p>
 <p><a href="https://t.me/kusannsound">Kusann</a> - Директор, кодер, музыкант, художник</p>
 <p><a href="https://t.me/DoodlesVlad229">Prosto_Vlad</a> - Художник</p>
-<p><a href="https://t.me/wah_warehouse">Vahiduch</a> - Художник</p>
+<p><a href="https://t.me/wah_warehouse">Wahidych</a> - Художник</p>
 <p><a href="https://t.me/kurukuru">KuruKuru</a> - Музыкант</p>
 <p><a href="https://dorentos.newgrounds.com/">XLMdorentos</a> - Художник</p>
 <p><a href="https://t.me/bazafreya">Frey</a> - Художник</p>
