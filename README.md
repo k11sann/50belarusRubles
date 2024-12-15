@@ -1,7 +1,6 @@
 # TVOROG STREET
 <p align="center"><img src="https://github.com/k11sann/TVOROG-STREET-source/blob/main/tvorog.jpg" width=100% height=100% alt="Welcome to my profile, cool guys!"></p>
-source code of tvorog street
-Как выйдет я выложу
+Играть : https://gamebanana.com/mods/562392
 
 # Наша команда [ socials ] // НЕ ВСЕ
 ### Старички
