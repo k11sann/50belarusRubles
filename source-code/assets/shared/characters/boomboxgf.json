@@ -1,0 +1,36 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				146
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/boomboxgf",
+	"position": [
+		-710,
+		240
+	],
+	"healthicon": "kusann",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		255,
+		160
+	],
+	"camera_position": [
+		-780,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 0.2,
+	"_editor_isPlayer": true
+}

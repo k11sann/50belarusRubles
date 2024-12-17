@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sprayNumb.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="numb10000" x="0" y="0" width="130" height="173"/>
+	<SubTexture name="numb10001" x="0" y="0" width="130" height="173"/>
+	<SubTexture name="numb10002" x="130" y="0" width="130" height="173"/>
+	<SubTexture name="numb10003" x="130" y="0" width="130" height="173"/>
+	<SubTexture name="numb10004" x="260" y="0" width="130" height="173"/>
+	<SubTexture name="numb10005" x="260" y="0" width="130" height="173"/>
+	<SubTexture name="numb20000" x="390" y="0" width="133" height="161"/>
+	<SubTexture name="numb20001" x="390" y="0" width="133" height="161"/>
+	<SubTexture name="numb20002" x="523" y="0" width="133" height="161"/>
+	<SubTexture name="numb20003" x="523" y="0" width="133" height="161"/>
+	<SubTexture name="numb20004" x="656" y="0" width="133" height="161"/>
+	<SubTexture name="numb20005" x="656" y="0" width="133" height="161"/>
+	<SubTexture name="numb30000" x="789" y="0" width="145" height="166"/>
+	<SubTexture name="numb30001" x="789" y="0" width="145" height="166"/>
+	<SubTexture name="numb30002" x="0" y="173" width="145" height="166"/>
+	<SubTexture name="numb30003" x="0" y="173" width="145" height="166"/>
+	<SubTexture name="numb30004" x="145" y="173" width="145" height="166"/>
+	<SubTexture name="numb30005" x="145" y="173" width="145" height="166"/>
+	<SubTexture name="numb40000" x="290" y="173" width="127" height="183"/>
+	<SubTexture name="numb40001" x="290" y="173" width="127" height="183"/>
+	<SubTexture name="numb40002" x="417" y="173" width="127" height="183"/>
+	<SubTexture name="numb40003" x="417" y="173" width="127" height="183"/>
+	<SubTexture name="numb40004" x="544" y="173" width="127" height="183"/>
+	<SubTexture name="numb40005" x="544" y="173" width="127" height="183"/>
+	<SubTexture name="numb50000" x="671" y="173" width="140" height="187"/>
+	<SubTexture name="numb50001" x="671" y="173" width="140" height="187"/>
+	<SubTexture name="numb50002" x="811" y="173" width="140" height="187"/>
+	<SubTexture name="numb50003" x="811" y="173" width="140" height="187"/>
+	<SubTexture name="numb50004" x="0" y="360" width="140" height="187"/>
+	<SubTexture name="numb50005" x="0" y="360" width="140" height="187"/>
+	<SubTexture name="numb60000" x="140" y="360" width="188" height="196"/>
+	<SubTexture name="numb60001" x="140" y="360" width="188" height="196"/>
+	<SubTexture name="numb60002" x="328" y="360" width="188" height="196"/>
+	<SubTexture name="numb60003" x="328" y="360" width="188" height="196"/>
+	<SubTexture name="numb60004" x="516" y="360" width="188" height="196"/>
+	<SubTexture name="numb60005" x="516" y="360" width="188" height="196"/>
+	<SubTexture name="numb70000" x="704" y="360" width="168" height="191"/>
+	<SubTexture name="numb70001" x="704" y="360" width="168" height="191"/>
+	<SubTexture name="numb70002" x="0" y="556" width="168" height="191"/>
+	<SubTexture name="numb70003" x="0" y="556" width="168" height="191"/>
+	<SubTexture name="numb70004" x="168" y="556" width="168" height="191"/>
+	<SubTexture name="numb70005" x="168" y="556" width="168" height="191"/>
+	<SubTexture name="numb80000" x="336" y="556" width="162" height="191"/>
+	<SubTexture name="numb80001" x="336" y="556" width="162" height="191"/>
+	<SubTexture name="numb80002" x="498" y="556" width="162" height="191"/>
+	<SubTexture name="numb80003" x="498" y="556" width="162" height="191"/>
+	<SubTexture name="numb80004" x="660" y="556" width="162" height="191"/>
+	<SubTexture name="numb80005" x="660" y="556" width="162" height="191"/>
+	<SubTexture name="numb90000" x="822" y="556" width="141" height="177"/>
+	<SubTexture name="numb90001" x="822" y="556" width="141" height="177"/>
+	<SubTexture name="numb90002" x="0" y="747" width="141" height="177"/>
+	<SubTexture name="numb90003" x="0" y="747" width="141" height="177"/>
+	<SubTexture name="numb90004" x="141" y="747" width="141" height="177"/>
+	<SubTexture name="numb90005" x="141" y="747" width="141" height="177"/>
+	<SubTexture name="numbNOLE0000" x="282" y="747" width="138" height="202"/>
+	<SubTexture name="numbNOLE0001" x="282" y="747" width="138" height="202"/>
+	<SubTexture name="numbNOLE0002" x="420" y="747" width="138" height="202"/>
+	<SubTexture name="numbNOLE0003" x="420" y="747" width="138" height="202"/>
+	<SubTexture name="numbNOLE0004" x="558" y="747" width="138" height="202"/>
+	<SubTexture name="numbNOLE0005" x="558" y="747" width="138" height="202"/>
+</TextureAtlas>

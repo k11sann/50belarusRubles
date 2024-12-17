@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="playArrow.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrowLEFT0000" x="0" y="0" width="148" height="101"/>
+	<SubTexture name="arrowLEFT0001" x="0" y="0" width="148" height="101"/>
+	<SubTexture name="arrowLEFT0002" x="148" y="0" width="148" height="101"/>
+	<SubTexture name="arrowLEFT0003" x="148" y="0" width="148" height="101"/>
+	<SubTexture name="arrowLEFT0004" x="296" y="0" width="148" height="101"/>
+	<SubTexture name="arrowLEFT0005" x="296" y="0" width="148" height="101"/>
+	<SubTexture name="arrowLEFT0006" x="0" y="101" width="148" height="101"/>
+	<SubTexture name="arrowLEFT0007" x="0" y="101" width="148" height="101"/>
+	<SubTexture name="arrowLEFT0008" x="0" y="0" width="148" height="101"/>
+	<SubTexture name="arrowLEFT0009" x="0" y="0" width="148" height="101"/>
+</TextureAtlas>

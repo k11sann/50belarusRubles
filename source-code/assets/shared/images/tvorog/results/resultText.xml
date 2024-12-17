@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="resultText.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lose0000" x="0" y="0" width="1177" height="484"/>
+	<SubTexture name="lose0001" x="0" y="0" width="1177" height="484"/>
+	<SubTexture name="lose0002" x="1177" y="0" width="1177" height="484"/>
+	<SubTexture name="lose0003" x="1177" y="0" width="1177" height="484"/>
+	<SubTexture name="lose0004" x="2354" y="0" width="1177" height="484"/>
+	<SubTexture name="lose0005" x="2354" y="0" width="1177" height="484"/>
+	<SubTexture name="win0000" x="0" y="484" width="1058" height="639"/>
+	<SubTexture name="win0001" x="0" y="484" width="1058" height="639"/>
+	<SubTexture name="win0002" x="1058" y="484" width="1058" height="639"/>
+	<SubTexture name="win0003" x="1058" y="484" width="1058" height="639"/>
+	<SubTexture name="win0004" x="2116" y="484" width="1058" height="639"/>
+	<SubTexture name="win0005" x="2116" y="484" width="1058" height="639"/>
+</TextureAtlas>

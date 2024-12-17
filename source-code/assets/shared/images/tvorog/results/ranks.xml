@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ranks.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rankAanim0000" x="0" y="0" width="296" height="436"/>
+	<SubTexture name="rankAanim0001" x="0" y="0" width="296" height="436"/>
+	<SubTexture name="rankAanim0002" x="296" y="0" width="296" height="436"/>
+	<SubTexture name="rankAanim0003" x="296" y="0" width="296" height="436"/>
+	<SubTexture name="rankAanim0004" x="592" y="0" width="296" height="436"/>
+	<SubTexture name="rankAanim0005" x="592" y="0" width="296" height="436"/>
+	<SubTexture name="rankAnim0000" x="888" y="0" width="638" height="366"/>
+	<SubTexture name="rankAnim0001" x="888" y="0" width="638" height="366"/>
+	<SubTexture name="rankAnim0002" x="0" y="436" width="638" height="366"/>
+	<SubTexture name="rankAnim0003" x="0" y="436" width="638" height="366"/>
+	<SubTexture name="rankAnim0004" x="638" y="436" width="638" height="366"/>
+	<SubTexture name="rankAnim0005" x="638" y="436" width="638" height="366"/>
+	<SubTexture name="rankBanim0000" x="1276" y="436" width="293" height="374"/>
+	<SubTexture name="rankBanim0001" x="1276" y="436" width="293" height="374"/>
+	<SubTexture name="rankBanim0002" x="1569" y="436" width="293" height="374"/>
+	<SubTexture name="rankBanim0003" x="1569" y="436" width="293" height="374"/>
+	<SubTexture name="rankBanim0004" x="0" y="810" width="293" height="374"/>
+	<SubTexture name="rankBanim0005" x="0" y="810" width="293" height="374"/>
+	<SubTexture name="rankCanim0000" x="293" y="810" width="251" height="414"/>
+	<SubTexture name="rankCanim0001" x="293" y="810" width="251" height="414"/>
+	<SubTexture name="rankCanim0002" x="544" y="810" width="251" height="414"/>
+	<SubTexture name="rankCanim0003" x="544" y="810" width="251" height="414"/>
+	<SubTexture name="rankCanim0004" x="795" y="810" width="251" height="414"/>
+	<SubTexture name="rankCanim0005" x="795" y="810" width="251" height="414"/>
+	<SubTexture name="rankNONEanim0000" x="1046" y="810" width="425" height="349"/>
+	<SubTexture name="rankNONEanim0001" x="1046" y="810" width="425" height="349"/>
+	<SubTexture name="rankNONEanim0002" x="1471" y="810" width="425" height="349"/>
+	<SubTexture name="rankNONEanim0003" x="1471" y="810" width="425" height="349"/>
+	<SubTexture name="rankNONEanim0004" x="0" y="1224" width="425" height="349"/>
+	<SubTexture name="rankNONEanim0005" x="0" y="1224" width="425" height="349"/>
+</TextureAtlas>

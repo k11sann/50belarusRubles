@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="missLabels.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="miss10000" x="0" y="0" width="467" height="198"/>
+	<SubTexture name="miss10001" x="0" y="0" width="467" height="198"/>
+	<SubTexture name="miss10002" x="0" y="0" width="467" height="198"/>
+	<SubTexture name="miss10003" x="0" y="0" width="467" height="198"/>
+	<SubTexture name="miss10004" x="0" y="0" width="467" height="198"/>
+	<SubTexture name="miss10005" x="0" y="0" width="467" height="198"/>
+	<SubTexture name="miss20000" x="467" y="0" width="425" height="221"/>
+	<SubTexture name="miss20001" x="467" y="0" width="425" height="221"/>
+	<SubTexture name="miss20002" x="467" y="0" width="425" height="221"/>
+	<SubTexture name="miss20003" x="467" y="0" width="425" height="221"/>
+	<SubTexture name="miss20004" x="467" y="0" width="425" height="221"/>
+	<SubTexture name="miss20005" x="467" y="0" width="425" height="221"/>
+	<SubTexture name="miss30000" x="0" y="221" width="472" height="235"/>
+	<SubTexture name="miss30001" x="0" y="221" width="472" height="235"/>
+	<SubTexture name="miss30002" x="0" y="221" width="472" height="235"/>
+	<SubTexture name="miss30003" x="0" y="221" width="472" height="235"/>
+	<SubTexture name="miss30004" x="0" y="221" width="472" height="235"/>
+	<SubTexture name="miss30005" x="0" y="221" width="472" height="235"/>
+</TextureAtlas>

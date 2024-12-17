@@ -1,0 +1,55 @@
+////////////// ENG //////////////
+U can create graffity presets
+
+1. Add your texture in 'brushTextures' folder
+
+2. open PresetSettings.json [ can open like .txt ]
+
+3. in PresetSettings.json u can change color spray [ "SprColors", hex color ];
+Aaaaand you can add new spray texture name [ texture name like your texture name in 'brushTextures' ]
+
+brush size texture features 170x170 meow, u can use more size ;)
+
+* PresetUnuse = store your presets [ dont use this to use presets, ONLY STORE, THIS FOLDER DONT USED !]
+
+Available names of sprays :
+* one
+* two
+* three
+* four
+* five
+* six
+* seven
+* eight
+* nine
+* ten
+
+with love, Kusann <3
+
+////////////// РУС //////////////
+Вы можете создавать свои прессеты на граффити
+
+1. Добавьте свою текстуру в папку 'brushTextures'
+
+2. Откройте PresetSettings.json [ можно открыть как .txt ]
+
+3. В PresetSettings.json вы можете менять цвета ["SprColors", hex color ];
+А также вы можете добавлять имена для текстур балончика [ имя текстуры как имя текстуры в 'brushTextures' ]
+
+Размер текстуры 170х170 мяу, можете больше ;)
+
+* PresetUnuse = Хранить ваши пресеты [ ТОЛЬКО ХРАНИТЬ, ЭТА ПАПКА НЕ ИСПОЛЬЗУЕТСЯ НИКАК ! ]
+
+Одобренные имена текстур :
+* one
+* two
+* three
+* four
+* five
+* six
+* seven
+* eight
+* nine
+* ten
+
+С любовью, Куса <3

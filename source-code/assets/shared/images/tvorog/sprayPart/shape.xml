@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shape.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shape0000" x="0" y="0" width="318" height="145"/>
+	<SubTexture name="shape0001" x="0" y="0" width="318" height="145"/>
+	<SubTexture name="shape0002" x="0" y="145" width="318" height="145"/>
+	<SubTexture name="shape0003" x="0" y="145" width="318" height="145"/>
+	<SubTexture name="shape0004" x="0" y="290" width="318" height="145"/>
+	<SubTexture name="shape0005" x="0" y="290" width="318" height="145"/>
+</TextureAtlas>

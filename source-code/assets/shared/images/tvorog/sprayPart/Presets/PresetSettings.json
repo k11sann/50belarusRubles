@@ -1,0 +1,16 @@
+{
+    "SprColors": [
+        "ff1431",
+        "ff6430",
+        "0ac1ff",
+        "14ffe2",
+        "6c14ff",
+        "a6ff14",
+        "ff7daa",
+        "eae7f9",
+        "0c0c0d"
+    ],
+    "Sprays": ["one", "two", "three", "four"],
+
+    "SpraySongs": ["one"]
+}

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="playText.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="missesAnim0000" x="0" y="0" width="582" height="192"/>
+	<SubTexture name="missesAnim0001" x="0" y="0" width="582" height="192"/>
+	<SubTexture name="missesAnim0002" x="582" y="0" width="582" height="192"/>
+	<SubTexture name="missesAnim0003" x="582" y="0" width="582" height="192"/>
+	<SubTexture name="missesAnim0004" x="1164" y="0" width="582" height="192"/>
+	<SubTexture name="missesAnim0005" x="1164" y="0" width="582" height="192"/>
+	<SubTexture name="mixAnim0000" x="1746" y="0" width="252" height="185"/>
+	<SubTexture name="mixAnim0001" x="1746" y="0" width="252" height="185"/>
+	<SubTexture name="mixAnim0002" x="0" y="192" width="252" height="185"/>
+	<SubTexture name="mixAnim0003" x="0" y="192" width="252" height="185"/>
+	<SubTexture name="mixAnim0004" x="252" y="192" width="252" height="185"/>
+	<SubTexture name="mixAnim0005" x="252" y="192" width="252" height="185"/>
+	<SubTexture name="scoreAnim0000" x="504" y="192" width="442" height="160"/>
+	<SubTexture name="scoreAnim0001" x="504" y="192" width="442" height="160"/>
+	<SubTexture name="scoreAnim0002" x="946" y="192" width="442" height="160"/>
+	<SubTexture name="scoreAnim0003" x="946" y="192" width="442" height="160"/>
+	<SubTexture name="scoreAnim0004" x="1388" y="192" width="442" height="160"/>
+	<SubTexture name="scoreAnim0005" x="1388" y="192" width="442" height="160"/>
+	<SubTexture name="startAnim0000" x="0" y="377" width="714" height="312"/>
+	<SubTexture name="startAnim0001" x="0" y="377" width="714" height="312"/>
+	<SubTexture name="startAnim0002" x="714" y="377" width="714" height="312"/>
+	<SubTexture name="startAnim0003" x="714" y="377" width="714" height="312"/>
+</TextureAtlas>

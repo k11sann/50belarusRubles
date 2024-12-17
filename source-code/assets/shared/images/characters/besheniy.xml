@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="besheniy.png">
+<SubTexture name="besheniy left0000" x="0" y="1742" width="1055" height="1320" frameX="-21" frameY="-348" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy left0001" x="0" y="1742" width="1055" height="1320" frameX="-21" frameY="-348" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy left0002" x="2014" y="0" width="1049" height="1328" frameX="-18" frameY="-340" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy left0003" x="2014" y="0" width="1049" height="1328" frameX="-18" frameY="-340" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy down0000" x="2099" y="3062" width="1082" height="1210" frameX="0" frameY="-459" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy down0001" x="2099" y="3062" width="1082" height="1210" frameX="0" frameY="-459" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy down0002" x="1032" y="3062" width="1067" height="1224" frameX="-1" frameY="-450" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy down0003" x="1032" y="3062" width="1067" height="1224" frameX="-1" frameY="-450" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy right0000" x="3912" y="0" width="1022" height="1284" frameX="-130" frameY="-364" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy right0001" x="3912" y="0" width="1022" height="1284" frameX="-130" frameY="-364" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy right0002" x="0" y="3062" width="1032" height="1278" frameX="-119" frameY="-365" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy right0003" x="0" y="3062" width="1032" height="1278" frameX="-119" frameY="-365" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy up0000" x="0" y="0" width="1001" height="1742" frameX="-171" frameY="0" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy up0001" x="0" y="0" width="1001" height="1742" frameX="-171" frameY="0" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy up0002" x="1001" y="0" width="1013" height="1738" frameX="-162" frameY="-3" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy up0003" x="1001" y="0" width="1013" height="1738" frameX="-162" frameY="-3" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy idle0000" x="1055" y="1742" width="844" height="1295" frameX="-184" frameY="-359" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy idle0001" x="1055" y="1742" width="844" height="1295" frameX="-184" frameY="-359" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy idle0002" x="3063" y="0" width="849" height="1287" frameX="-182" frameY="-367" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy idle0003" x="3063" y="0" width="849" height="1287" frameX="-182" frameY="-367" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy idle0004" x="3063" y="1287" width="847" height="1287" frameX="-184" frameY="-367" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy idle0005" x="3063" y="1287" width="847" height="1287" frameX="-184" frameY="-367" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy idle0006" x="1899" y="1742" width="844" height="1291" frameX="-184" frameY="-362" frameWidth="1175" frameHeight="1742" />
+<SubTexture name="besheniy idle0007" x="1899" y="1742" width="844" height="1291" frameX="-184" frameY="-362" frameWidth="1175" frameHeight="1742" />
+</TextureAtlas>

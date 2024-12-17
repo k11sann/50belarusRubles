@@ -1,0 +1,33 @@
+////////////// ENG //////////////
+U can change credits
+
+1. Add your creditChar.png with .xml file
+
+2. open credits.json [ can open like .txt ]
+
+3. in credits.json u can add your credit name with description
+
+Example:
+["Prosto_Vlad", "very cool artist fnf ujas"]
+
+1 - your name
+2 - your description
+
+with love, Kusann <3
+
+////////////// РУС //////////////
+Вы можете создавать свои прессеты на граффити
+
+1. Добавьте свои кредиты с названием creditChar.png с .xml файлом
+
+2. Откройте credits.json [ можно открыть как .txt ]
+
+3. В credits.json вы можете добавлять кредитыц
+
+Пример:
+["Prosto_Vlad", "very cool artist fnf ujas"]
+
+1 - Название
+2 - Описание
+
+С любовью, Куса <3

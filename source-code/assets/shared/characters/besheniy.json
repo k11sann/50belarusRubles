@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				660
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "besheniy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				670
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "besheniy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				670
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "besheniy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				730
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "besheniy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				310,
+				630
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "besheniy right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/besheniy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-110,
+		-530
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

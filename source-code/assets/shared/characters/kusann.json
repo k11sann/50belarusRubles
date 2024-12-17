@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				147
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				147
+			],
+			"anim": "skip",
+			"fps": 24,
+			"name": "skip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				147
+			],
+			"anim": "end",
+			"fps": 24,
+			"name": "end",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				147
+			],
+			"anim": "start",
+			"fps": 24,
+			"name": "start",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				148,
+				128
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				161
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				141
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				103
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/kusann-playable",
+	"position": [
+		60,
+		100
+	],
+	"healthicon": "kusann",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		255,
+		160
+	],
+	"camera_position": [
+		60,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 0.6,
+	"_editor_isPlayer": false
+}

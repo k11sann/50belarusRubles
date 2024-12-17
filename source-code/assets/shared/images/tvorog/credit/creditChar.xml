@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="creditChar.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Freak0000" x="0" y="0" width="260" height="256"/>
+	<SubTexture name="Frey0000" x="262" y="0" width="279" height="244"/>
+	<SubTexture name="Kinro0000" x="543" y="0" width="281" height="265"/>
+	<SubTexture name="KuruKuru0000" x="826" y="0" width="269" height="291"/>
+	<SubTexture name="Kusann0000" x="1097" y="0" width="280" height="238"/>
+	<SubTexture name="Mikechous0000" x="1379" y="0" width="365" height="307"/>
+	<SubTexture name="Prosto_Vlad0000" x="1746" y="0" width="266" height="246"/>
+	<SubTexture name="Sanya_Lutiy0000" x="0" y="309" width="231" height="217"/>
+	<SubTexture name="TheEvilsaiD0000" x="233" y="309" width="285" height="255"/>
+	<SubTexture name="Wahidych0000" x="520" y="309" width="270" height="226"/>
+	<SubTexture name="XLMDorentos0000" x="792" y="309" width="252" height="252"/>
+</TextureAtlas>

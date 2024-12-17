@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="city-ghost.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="char10000" x="0" y="0" width="413" height="536"/>
+	<SubTexture name="char10001" x="415" y="0" width="413" height="536"/>
+	<SubTexture name="char20000" x="830" y="0" width="426" height="555"/>
+	<SubTexture name="char20001" x="1258" y="0" width="426" height="555"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="metro.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="char10000" x="0" y="0" width="323" height="572"/>
+	<SubTexture name="char10001" x="325" y="0" width="323" height="572"/>
+	<SubTexture name="char20000" x="650" y="0" width="427" height="651"/>
+	<SubTexture name="char20001" x="1079" y="0" width="427" height="651"/>
+	<SubTexture name="char30000" x="1508" y="0" width="345" height="570"/>
+	<SubTexture name="char30001" x="0" y="653" width="345" height="570"/>
+	<SubTexture name="char40000" x="347" y="653" width="293" height="439"/>
+	<SubTexture name="char40001" x="642" y="653" width="293" height="439"/>
+	<SubTexture name="char50000" x="937" y="653" width="403" height="581"/>
+	<SubTexture name="char50001" x="1342" y="653" width="403" height="581"/>
+	<SubTexture name="char60000" x="1747" y="653" width="267" height="504"/>
+	<SubTexture name="char60001" x="0" y="1236" width="267" height="504"/>
+	<SubTexture name="char70000" x="269" y="1236" width="283" height="490"/>
+	<SubTexture name="char70001" x="554" y="1236" width="283" height="490"/>
+</TextureAtlas>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kurukuru.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="736" height="1022"/>
+	<SubTexture name="down0001" x="0" y="0" width="736" height="1022"/>
+	<SubTexture name="down0002" x="738" y="0" width="736" height="1022"/>
+	<SubTexture name="down0003" x="738" y="0" width="736" height="1022"/>
+	<SubTexture name="idle0000" x="1476" y="0" width="722" height="1145"/>
+	<SubTexture name="idle0001" x="1476" y="0" width="722" height="1145"/>
+	<SubTexture name="idle0002" x="1476" y="0" width="722" height="1145"/>
+	<SubTexture name="idle0003" x="1476" y="0" width="722" height="1145"/>
+	<SubTexture name="idle0004" x="2200" y="0" width="722" height="1145"/>
+	<SubTexture name="idle0005" x="2200" y="0" width="722" height="1145"/>
+	<SubTexture name="idle0006" x="2200" y="0" width="722" height="1145"/>
+	<SubTexture name="idle0007" x="2200" y="0" width="722" height="1145"/>
+	<SubTexture name="left0000" x="2924" y="0" width="880" height="1160"/>
+	<SubTexture name="left0001" x="2924" y="0" width="880" height="1160"/>
+	<SubTexture name="left0002" x="0" y="1162" width="880" height="1160"/>
+	<SubTexture name="left0003" x="0" y="1162" width="880" height="1160"/>
+	<SubTexture name="right0000" x="882" y="1162" width="855" height="1014"/>
+	<SubTexture name="right0001" x="882" y="1162" width="855" height="1014"/>
+	<SubTexture name="right0002" x="1739" y="1162" width="855" height="1014"/>
+	<SubTexture name="right0003" x="1739" y="1162" width="855" height="1014"/>
+	<SubTexture name="up0000" x="2596" y="1162" width="779" height="1037"/>
+	<SubTexture name="up0001" x="2596" y="1162" width="779" height="1037"/>
+	<SubTexture name="up0002" x="0" y="2324" width="779" height="1037"/>
+	<SubTexture name="up0003" x="0" y="2324" width="779" height="1037"/>
+</TextureAtlas>
